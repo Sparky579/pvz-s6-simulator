@@ -1,0 +1,50 @@
+{
+  "version": "s6-bug",
+  "seed": 20261027,
+  "repetitions": 200,
+  "mode": 1,
+  "max_frames": 3000000,
+  "easter": "original",
+  "elite": "original",
+  "elite_marker": 0,
+  "giant": 0,
+  "checkpoint_every": 1000,
+  "formation": [
+    [
+      24,
+      12,
+      17,
+      23,
+      38
+    ],
+    [
+      8,
+      25,
+      7,
+      49,
+      19
+    ],
+    [
+      40,
+      12,
+      22,
+      52,
+      26
+    ],
+    [
+      0,
+      51,
+      32,
+      34,
+      42
+    ],
+    [
+      13,
+      9,
+      27,
+      12,
+      6
+    ]
+  ],
+  "speed_mode": "fast"
+}

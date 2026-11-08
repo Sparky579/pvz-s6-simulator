@@ -1,0 +1,5 @@
+-r ../requirements.txt
+Pillow>=9
+numpy>=1.23
+# 没有系统 ffmpeg 时（例如 Windows）使用其自带的 ffmpeg
+imageio-ffmpeg>=0.4

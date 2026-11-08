@@ -1,0 +1,49 @@
+{
+  "version": "s6-bug",
+  "seed": 20261027,
+  "repetitions": 200,
+  "mode": 1,
+  "max_frames": 3000000,
+  "easter": "original",
+  "elite": "original",
+  "elite_marker": 0,
+  "giant": 0,
+  "checkpoint_every": 1000,
+  "formation": [
+    [
+      40,
+      22,
+      28,
+      22,
+      26
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      40,
+      22,
+      28,
+      22,
+      26
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      40,
+      22,
+      28,
+      22,
+      26
+    ]
+  ]
+}
